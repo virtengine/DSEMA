@@ -35,7 +35,7 @@ This project and its core infrastructure are protected under the following paten
 | **Application Type**              | Standard                                                                                                          |
 | **Status**                        | 🟢 Granted                                                                                                        |
 | **First IPC Mark**                | G06Q 50/26                                                                                                        |
-| **Inventor(s)**                   | Poorun, Rohan; Philipos, Jonathan; Livenson, Ilja                                                                 |
+| **Inventor(s)**                   | Philipos, Jonathan; Livenson, Ilja; Poorun, Rohan                                                                 |
 | **Agent**                         | DET-IO PTY LIMITED                                                                                                |
 | **Filing Date**                   | 12 May 2024                                                                                                       |
 | **Effective Date**                | 12 May 2024                                                                                                       |
